@@ -1,4 +1,7 @@
 # 📱 Student Performance Android App
+  UI-->
+        <img width="406" height="797" alt="image" src="https://github.com/user-attachments/assets/123b2d5d-31a8-48b9-9166-9417b331ef77" /
+        
 
 An intuitive Android mobile application frontend built in Java that connects with a live Machine Learning backend API to predict student academic performance instantly.
 
