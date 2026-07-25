@@ -21,10 +21,3 @@ An intuitive Android mobile application frontend built in Java that connects wit
 - **Networking:** HTTP Client / API Integration
 - **Backend Connected:** [Student Performance API](https://github.com/itsHarshSingh/student-performance-api)
 
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/itsHarshSingh/student-performance-android-app.git](https://github.com/itsHarshSingh/student-performance-android-app.git)
