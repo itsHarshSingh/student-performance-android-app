@@ -1,9 +1,10 @@
 # 📱 Student Performance Android App
 
-        <img width="406" height="797" alt="image" src="https://github.com/user-attachments/assets/123b2d5d-31a8-48b9-9166-9417b331ef77" /
-        
-
 An intuitive Android mobile application frontend built in Java that connects with a live Machine Learning backend API to predict student academic performance instantly.
+
+---
+
+![App UI](https://github.com/user-attachments/assets/123b2d5d-31a8-48b9-9166-9417b331ef77)
 
 ---
 
@@ -19,3 +20,11 @@ An intuitive Android mobile application frontend built in Java that connects wit
 - **UI:** Android SDK, ConstraintLayout, Material Components
 - **Networking:** HTTP Client / API Integration
 - **Backend Connected:** [Student Performance API](https://github.com/itsHarshSingh/student-performance-api)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/itsHarshSingh/student-performance-android-app.git](https://github.com/itsHarshSingh/student-performance-android-app.git)
